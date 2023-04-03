@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\alex\documents\programming projects\sorting algorithums c++\bubble sort\bubble sort\source.cpp(7): warning C4101: 'j': unreferenced local variable
+c:\users\alex\documents\programming projects\sorting algorithums c++\bubble sort\bubble sort\source.cpp(6): warning C4101: 'i': unreferenced local variable
+  Bubble sort.vcxproj -> C:\Users\Alex\Documents\Programming projects\Sorting algorithums C++\Bubble sort\Debug\Bubble sort.exe

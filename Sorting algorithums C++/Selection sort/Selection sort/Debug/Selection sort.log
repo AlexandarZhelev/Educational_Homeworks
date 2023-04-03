@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\alex\documents\programming projects\sorting algorithums c++\selection sort\selection sort\source.cpp(6): warning C4101: 'i': unreferenced local variable
+  Selection sort.vcxproj -> C:\Users\Alex\Documents\Programming projects\Sorting algorithums C++\Selection sort\Debug\Selection sort.exe
